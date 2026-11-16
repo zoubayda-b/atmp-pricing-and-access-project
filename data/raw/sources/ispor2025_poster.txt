@@ -1,0 +1,101 @@
+                                                                                                                                                                                                                                                                      HTA163
+
+Germany: Still a Benchmark for ATMP Access and Pricing? A Pricing
+Analysis of Germany's ATMP Landscape Compared to Other European
+Countries
+
+Joey Rehkopf, Nikolas Richter, Maud Brijs, Kristof Theys, Malte Glüsen, Prof. Dr. Matthias P. Schönermark
+
+   Objectives                                                                                                                                                            Methods
+
+This poster explores how German ATMP prices compare to those in other major European markets. The                                                                   A comparative data analysis of the German list prices was conducted for all ATMPs after successful price
+aim was to analyse changes in the pricing strategy of ATMPs in relation to the addressed population                                                                 negotiations based on the Lauer Taxe and a proprietary AMNOG database, including a peer group
+sizes and granted added benefit in Germany from the payer's perspective, as well as to compare                                                                      analysis based on several factors such as population size or granted added benefit. Afterwards, the
+launch- and ex-factory prices with other European countries such as France, Ireland, Netherlands and                                                                findings were compared with the prices in other European countries. If no rebated prices were available
+UK.                                                                                                                                                                 for the other countries, ex-factory prices were compared.
+
+                          Results
+
+Table 1: Launch and current ex-factory prices of 7 different ATMPs in different European countries (launch dates included).
+
+Ex-factory launch price levels were similar between Germany, Ireland, France and the Netherlands, with some exceptions in the UK, where (adjusted) price levels were in some cases higher than average. The fewest
+number of ATMPs is available to patients in Ireland. Current ex-factory prices are not available for every country. The Ex-factory prices and actual reimbursement amounts of the ATMPs may greatly differ in each
+country due to confidential rebates.
+
+                                                                      Germany                          France                              Italy                    Spain                       UK                               Ireland                  Belgium
+
+                          Product
+
+                                                                      Launch price Current price Launch price Current Price Launch price Current Price Launch price Current Price Launch price Current Price Launch price Current Price Launch price Current Price
+
+Eladocagene                                                           3,000,000.00   3,000,000.00   3,500,000.00   3,500,000.00   3,500,000.00    3,500,000.00   -                 -         3,459,633.25   3,459,633.25   -              -            3,500,000.00   3,500,000.00 
+exuparvovec                                                           (01-Apr-2024)                 (26-Jan-2023)                 (05-Dec-2023)                                              (20-Feb-2023)                                             (01-Jan-2024)
+(UPSTAZA)
+
+Atidarsagene autotemcel 2,875,000.00                                                 2,125,000.00   2,875,000.00   2,875,000.00   2,890,075.45    2,594,687.50   2,875,000.00      -         3,303,971.93   3,303,971.93   -              -            -                 -
+                                                                                                    (01-Sep-2023)                  (05-Jul-2021)                                             (09-Feb-2022)
+(LIBMELDY)                                                            (01-May-2021)
+
+Tabelecleucel                                                           75,000.00    55,444.45       75,000.00     75,000.00        67,687.50     67,687.50      -                 -         -              -              -              -              75,000.00    75,000.00 
+(EBVALLO)*                                                            (15-May-2023)                 (05-Jul-2025)                 (14-Mar-2025)                                                                                                        (01-Aug-2024)
+
+Ciltacabtagene                                                        420,000.00     285,000.00      420,000.00    420,000.00           -         -              420,000.00     420,000.00   435,525.56     435,525.56     -              -             399,000.00    399,000.00 
+autoleucel                                                            (15-Feb-2023)                 (01-Sep-2023)                                                (15-Apr-2025)               (28-Jan-2025)                                             (01-May-2025)
+(CARVYKTI)
+
+Lisocabtagene                                                          345,000.00    227,500.00     345,000.00     -              311,362.50      311,362.50     -                 -          341,314.67    341,314.67     -              -            -                 -
+maraleucel                                                            (01-Sep-2022)                 (26-Jan-2023)                 (09-Feb-2024)                                              (25-Mar-2025)
+(BREYANZI)
+
+Axicabtagene ciloleucel                                                327,000.00    230,621.00     350,000.00     -               327,000.00     295,117.50     327,000.00     327,000.00    322,296.43    322,296.43     315,564.62     -            287,000.00     320,000.00 
+(YESCARTA)                                                            (01-Nov-2018)                 (30-Jul-2018)                 (12-Nov-2019)                  (15-Jul-2019)               (30-Nov-2018)                                             (01-Jun-2021)
+
+Tisagenlecleucel                                                       320,000.00    239,000.00     -              -               320,000.00     288,800.00     320,000.00     320,000.00   324,076.55     324,076.55      307,353.21    301,944.37    320,000.00    267,200.00 
+(KYMRIAH)                                                             (15-Sep-2018)                                               (13-Aug-2019)                  (12-Feb-2019)               (19-Feb-2020)                 (01-Mar-2024)               (01-Aug-2019)
+
+Calculation of UK prices in Euro based on the currency exchange rate of 1.149208 (15-Oct-2025). Prices not listed or products not launched in the respective country were marked with "-".
+* Price per vial
+
+                          3.500.000                                                                                                                                                                            Highest added benefit                   considerable
+                          3.000.000                                                                                                                                                                                                                    non-quantifiable
+                          2.500.000                                                                                                                                                                              major
+ net annual therapy cost                                                                                                                                                                                         minor
+                                                                                                                                                                                                                 no added benefit
+
+                          2.000.000
+
+                          1.500.000
+
+                          1.000.000                                                                                                                                                                                                                    R² = 0,4531
+                             500.000
+
+                          -
+
+                                      0                                              500               1000                       1500               2000                       2500            3000                       3500              4000                     4500
+                                                                                                                                                                  population size
+
+Figure 1: Average annual therapy cost of ATMPs which are currently reimbursed in Germany in relation to the addressed population size.
+
+The net prices of the 14 ATMPs that underwent the AMNOG process and still hold their marketing authorisation ranged between ~30,000 up to 3,000,000 with an average of 551,557.57. In general, the net prices
+
+were lower for ATMPs with several indication extensions and therefore higher total target populations. Net prices after negotiation also correlate with the grade of the granted added benefit with rebates ranging from
+
+~3.55% up to 52.4% with a mean rebate of 16.4%.
+
+   Conclusion
+
+Based on the payer decisions and AMNOG precedents on ATMPs, there is no clear trend or change on pricing decisions. Comparisons with other EU countries show that Germany is still a leading price anchor for ATMPs
+and often used for reference pricing at the initial launch. However, comparisons in current price levels of selected ATMPs show that the price levels seem to have a higher fall off in Germany compared to other European
+countries. To further assess the differences in post-launch prices and the influence of German ATMP pricing, country-specific confidential rebates would be needed to compare actual costs of the drugs.
+
+                                                                      As a pan-European strategy consultancy for the pharmaceutical and biotech industry, Kintiga offers powerful
+                                                                      solutions resulting from our shared ambition and our agile, focused approach. Our united team brings together deep local
+                                                                      expertise and global reach, channeling energy and experience into seamless, impactful solutions that transform patient access
+                                                                      across Europe. Kintiga ­ where energy meets experience.
+
+                          RESEARCH POSTER PRESENTATION DESIGN © 2019  References:                                                                                   5. Spain's General Council of Official Colleges of Pharmacists                                        Contact us:
+                                                                      1. Proprietary AMNOG Database ­ Market Access Intelligence System (MAIS) by Kintiga           6. Primary Care Reimbursement Service (PCRS) of the Health Service                 enquiries@kintiga.com
+                          www.PosterPresentations.com                 2. Belgian Institut national d'assurance maladie-invalidité (INAMI)
+                                                                      3. French National Health Insurance Agency (CNAM)                                                     Executive (HSE)                                                                    www.kintiga.com
+                                                                      4. Dictionary of Medicines and Devices - National Health Service (NHS)                        7. Italian CODIFA / Gazzetta Ufficiale
+

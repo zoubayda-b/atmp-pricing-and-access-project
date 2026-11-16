@@ -1,0 +1,25 @@
+country,access_group,n,percent
+United States,"Marketed (US, no HTA gate)",17,100
+United States,Not launched or not approved,0,0
+United States,Not reimbursed / no positive HTA,0,0
+United States,Reimbursed / recommended,0,0
+United States,Status not located,0,0
+United States,Withdrawn or discontinued,0,0
+Germany,Reimbursed / recommended,12,71
+Germany,Not launched or not approved,3,18
+Germany,Withdrawn or discontinued,2,12
+Germany,"Marketed (US, no HTA gate)",0,0
+Germany,Not reimbursed / no positive HTA,0,0
+Germany,Status not located,0,0
+France,Reimbursed / recommended,9,53
+France,Not launched or not approved,4,24
+France,Not reimbursed / no positive HTA,2,12
+France,Status not located,1,6
+France,Withdrawn or discontinued,1,6
+France,"Marketed (US, no HTA gate)",0,0
+England,Reimbursed / recommended,8,47
+England,Not launched or not approved,5,29
+England,Not reimbursed / no positive HTA,4,24
+England,"Marketed (US, no HTA gate)",0,0
+England,Status not located,0,0
+England,Withdrawn or discontinued,0,0

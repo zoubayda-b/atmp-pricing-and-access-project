@@ -1,0 +1,28 @@
+brand,country,regulatory_date,first_access_date,delay_regulatory_to_access,delay_negative,access_status
+Abecma,Germany,2021-08-18,2021-08-18,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Breyanzi,Germany,2022-04-04,2022-04-04,0,FALSE,Reimbursed (AMNOG free-pricing period); later withdrawn from German market
+Carvykti,Germany,2022-05-25,2022-05-25,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Casgevy,Germany,2024-02-09,2024-02-09,0,FALSE,Reimbursed; pay-for-performance terms under negotiation
+Hemgenix,Germany,2023-02-20,2023-02-20,0,FALSE,Reimbursed under pay-for-performance agreement
+Kymriah,Germany,2018-08-23,2018-08-23,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Libmeldy/Lenmeldy,Germany,2020-12-17,2020-12-17,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Luxturna,Germany,2018-11-22,2018-11-22,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Roctavian,Germany,2022-08-24,2022-08-24,0,FALSE,Reimbursed under outcomes-based agreement; withdrawn 2026
+Tecartus,Germany,2020-12-14,2020-12-14,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Yescarta,Germany,2018-08-23,2018-08-23,0,FALSE,Reimbursed (AMNOG free-pricing period)
+Zolgensma,Germany,2020-05-18,2020-05-18,0,FALSE,Reimbursed (AMNOG; routine-practice data collection)
+Zynteglo,Germany,2019-05-29,2019-05-29,0,FALSE,Withdrawn from Germany (2021) after pricing dispute
+Zolgensma,France,2020-05-18,2019-07-25,-298,TRUE,Early access (ATU) from July 2019; CEPS price not confirmed
+Breyanzi,France,2022-04-04,2023-01-26,297,FALSE,Reimbursed
+Yescarta,France,2018-08-23,2019-07-08,319,FALSE,Reimbursed (CEPS price; outcomes-based payment)
+Kymriah,France,2018-08-23,2019-08-13,355,FALSE,Reimbursed (CEPS price; outcomes-based payment)
+Carvykti,France,2022-05-25,2023-09-01,464,FALSE,Reimbursed
+Libmeldy/Lenmeldy,France,2020-12-17,2023-09-01,988,FALSE,Reimbursed
+Tecartus,England,2020-12-14,2021-02-24,72,FALSE,Recommended and funded by NHS England
+Kymriah,England,2018-08-23,2018-12-21,120,FALSE,Recommended and funded by NHS England
+Yescarta,England,2018-08-23,2019-01-23,153,FALSE,Recommended and funded by NHS England
+Casgevy,England,2023-11-16,2024-09-11,300,FALSE,Recommended with managed access (TDT first; SCD from Feb 2025)
+Luxturna,England,2018-11-22,2019-10-09,321,FALSE,Recommended and funded by NHS England
+Zolgensma,England,2020-05-18,2021-07-07,415,FALSE,Recommended and funded by NHS England
+Libmeldy/Lenmeldy,England,2020-12-17,2022-03-28,466,FALSE,Recommended and funded by NHS England
+Hemgenix,England,2023-02-20,2024-07-24,520,FALSE,Recommended and funded by NHS England

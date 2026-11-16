@@ -1,0 +1,8 @@
+analysis,country,n,spearman_rho,ci_low,ci_high,p_value,direction,ci_crosses_zero
+"Price vs launch delay (pooled, non-US)","Pooled (DE, FR, EN)",24,0.151,-0.333,0.572,0.482,Positive,TRUE
+Price vs launch delay (within country),Germany,11,,,,,Not estimable,
+Price vs launch delay (within country),France,6,0.257,-1,1,0.658,Positive,TRUE
+Price vs launch delay (within country),England,7,0.893,0.411,1,0.012,Positive,FALSE
+Ordinal HTA rating vs price (within country),Germany,7,-0.558,-0.97,0.214,0.193,Negative,TRUE
+Ordinal HTA rating vs price (within country),France,4,0.258,-1,1,0.742,Positive,TRUE
+Ordinal HTA rating vs price (within country),England,8,,,,,Not estimable,

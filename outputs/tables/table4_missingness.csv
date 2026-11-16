@@ -1,0 +1,25 @@
+country,variable,n,n_missing,pct_missing
+United States,list_price_lcu,17,0,0
+United States,first_access_date,17,0,0
+United States,regulatory_date,17,0,0
+United States,hta_date,17,17,100
+United States,hta_rating_ordinal,17,17,100
+United States,price_year,17,0,0
+Germany,list_price_lcu,17,6,35
+Germany,first_access_date,17,4,24
+Germany,regulatory_date,17,2,12
+Germany,hta_date,17,14,82
+Germany,hta_rating_ordinal,17,9,53
+Germany,price_year,17,6,35
+France,list_price_lcu,17,10,59
+France,first_access_date,17,11,65
+France,regulatory_date,17,2,12
+France,hta_date,17,15,88
+France,hta_rating_ordinal,17,12,71
+France,price_year,17,10,59
+England,list_price_lcu,17,9,53
+England,first_access_date,17,9,53
+England,regulatory_date,17,2,12
+England,hta_date,17,8,47
+England,hta_rating_ordinal,17,8,47
+England,price_year,17,9,53

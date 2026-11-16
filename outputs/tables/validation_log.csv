@@ -1,0 +1,15 @@
+check,expected,observed,pass,note
+Row count,68,68,TRUE,17 products x 4 countries
+Unique product x country pairs,68,68,TRUE,
+Products,17,17,TRUE,
+Countries,4,4,TRUE,
+Balanced panel,4 rows per product,4-4,TRUE,
+Currency consistent with country,all rows,TRUE,TRUE,
+Price year present and in 2015-2024 for every priced row,all rows,TRUE,TRUE,
+Confidential prices coded NA,no value,TRUE,TRUE,
+No price where approved is FALSE,0 priced rows,0,TRUE,
+CPI/PPP factor available for every priced row,all rows,43,TRUE,
+Missingness: England,documented,price NA 9/17; confidential 1; access NA 9; delay NA 9; HTA rating NA 8,,Counts of explicitly coded missing values
+Missingness: France,documented,price NA 10/17; confidential 2; access NA 11; delay NA 11; HTA rating NA 12,,Counts of explicitly coded missing values
+Missingness: Germany,documented,price NA 6/17; confidential 3; access NA 4; delay NA 4; HTA rating NA 9,,Counts of explicitly coded missing values
+Missingness: United States,documented,price NA 0/17; confidential 0; access NA 0; delay NA 0; HTA rating NA 17,,Counts of explicitly coded missing values

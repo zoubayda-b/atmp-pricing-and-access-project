@@ -1,0 +1,24 @@
+**Characteristic**,"**United States**  
+N = 17","**Germany**  
+N = 17","**France**  
+N = 17","**England**  
+N = 17","**Overall**  
+N = 68"
+__ATMP modality__,,,,,
+CAR-T cell therapy,6 (35%),6 (35%),6 (35%),6 (35%),24 (35%)
+Gene therapy,10 (59%),10 (59%),10 (59%),10 (59%),40 (59%)
+Gene-edited cell therapy,1 (5.9%),1 (5.9%),1 (5.9%),1 (5.9%),4 (5.9%)
+__Regulatory status__,,,,,
+Regulatory approval,17 (100%),15 (88%),15 (88%),11 (73%),58 (88%)
+No approval,0 (0%),2 (12%),2 (12%),4 (27%),8 (12%)
+Missing,0,0,0,2,2
+__Price availability__,,,,,
+List price observed,17 (100%),11 (65%),7 (41%),8 (47%),43 (63%)
+List price missing,0 (0%),6 (35%),10 (59%),9 (53%),25 (37%)
+__Launch-delay availability__,,,,,
+Delay analysable,0 (0%),13 (76%),6 (35%),8 (47%),27 (40%)
+Delay not analysable,17 (100%),4 (24%),11 (65%),9 (53%),41 (60%)
+"__List price, local currency__","2,200,000 (465,000, 3,100,000)","420,000 (327,000, 1,945,000)","420,000 (327,000, 1,945,000)","1,132,205 (289,500, 2,197,500)","690,000 (350,000, 2,800,000)"
+Missing,0,6,10,9,25
+"__Delay, regulatory approval to access (days)__","0 (0, 0)","0 (0, 0)","337 (297, 464)","311 (137, 441)","0 (0, 137)"
+Missing,0,4,11,9,24

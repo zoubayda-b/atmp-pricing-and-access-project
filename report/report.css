@@ -1,0 +1,192 @@
+@page {
+  size: A4;
+  margin: 17mm 16mm 17mm 16mm;
+}
+
+html {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.2pt;
+  line-height: 1.55;
+  color: #222222;
+  max-width: 175mm;
+  margin: 0 auto;
+  padding: 0;
+  background: #ffffff;
+}
+
+.titlepage {
+  text-align: center;
+  padding-top: 38mm;
+  page-break-after: always;
+}
+
+.titlepage .doctitle {
+  font-size: 25pt;
+  font-weight: 700;
+  color: #1F3B57;
+  line-height: 1.2;
+  margin: 0 0 10mm 0;
+}
+
+.titlepage .subtitle {
+  font-size: 13.5pt;
+  color: #3E6FA3;
+  line-height: 1.4;
+  margin: 0 12mm 16mm 12mm;
+}
+
+.titlepage .meta {
+  font-size: 10.5pt;
+  color: #555555;
+  margin: 2mm 0;
+}
+
+h1 {
+  font-size: 17pt;
+  color: #1F3B57;
+  border-bottom: 1.5pt solid #B5523B;
+  padding-bottom: 2mm;
+  margin-top: 0;
+  margin-bottom: 5mm;
+  page-break-before: always;
+  page-break-after: avoid;
+}
+
+h1:first-of-type {
+  page-break-before: auto;
+}
+
+h2 {
+  font-size: 12.8pt;
+  color: #1F3B57;
+  margin-top: 7mm;
+  margin-bottom: 2.5mm;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 11pt;
+  color: #3E6FA3;
+  margin-top: 5mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+p {
+  margin: 0 0 3.2mm 0;
+  text-align: justify;
+  orphans: 3;
+  widows: 3;
+}
+
+ul, ol {
+  margin: 0 0 3.5mm 0;
+  padding-left: 6mm;
+}
+
+li {
+  margin-bottom: 1.6mm;
+}
+
+a {
+  color: #3E6FA3;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 8.2pt;
+  line-height: 1.35;
+  margin: 3mm 0 6mm 0;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+tr {
+  page-break-inside: avoid;
+}
+
+th {
+  background: #E8EEF4;
+  color: #1F3B57;
+  font-weight: 600;
+  text-align: left;
+  padding: 1.8mm 1.6mm;
+  border-bottom: 0.8pt solid #8FA6BC;
+  vertical-align: bottom;
+}
+
+td {
+  padding: 1.5mm 1.6mm;
+  border-bottom: 0.4pt solid #D9D9D9;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) td {
+  background: #F7F9FB;
+}
+
+caption {
+  caption-side: top;
+  text-align: left;
+  font-size: 8.6pt;
+  font-weight: 600;
+  color: #333333;
+  padding-bottom: 1.6mm;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 3mm auto 2mm auto;
+  page-break-inside: avoid;
+}
+
+p:has(img) {
+  text-align: center;
+  font-size: 8.4pt;
+  color: #555555;
+  margin-bottom: 6mm;
+}
+
+code {
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 8.6pt;
+  background: #F1F3F5;
+  padding: 0.3mm 1mm;
+  border-radius: 1.5mm;
+}
+
+pre {
+  background: #F1F3F5;
+  border-left: 2.5pt solid #3E6FA3;
+  padding: 3mm 4mm;
+  overflow-x: auto;
+  font-size: 8.4pt;
+  line-height: 1.4;
+  page-break-inside: avoid;
+}
+
+blockquote {
+  border-left: 2.5pt solid #B5523B;
+  margin-left: 0;
+  padding-left: 4mm;
+  color: #444444;
+}
+
+hr {
+  border: none;
+  border-top: 0.5pt solid #CCCCCC;
+  margin: 5mm 0;
+}

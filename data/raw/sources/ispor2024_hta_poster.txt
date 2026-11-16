@@ -1,0 +1,97 @@
+                                                                                                                                       HTA21
+
+Evaluating Key Drivers for Patient Access and Pricing
+Trends in ATMPs across Germany, France, and the UK
+
+EMILY NG, MSc ­ SENIOR ANALYST, MITUN PATEL, MSc - DIRECTOR
+RED NUCLEUS, MARKET ACCESS AND COMMERCIALISATION SERVICES, LONDON, UK
+
+OBJECTIVES                                                                                     In France, Luxturna is the only product to receive an `SMR Important' and `ASMR II' rating.
+                                                                                               Following a similar HTA evaluation as in Germany, the Haute Autorité de Santé (HAS)
+With the rapid development of Advanced Therapy Medicinal Products (ATMPs), managing            noted that the efficacy of existing treatments, such as Vitamin A palmitate and lutein-
+the budget impact of introducing these high-cost therapies poses a key challenge for           DHA, is subject to debate, and that current medical devices do not target the same
+healthcare systems. Payers often restrict access to high-cost therapies due to                 patient population. Luxturna was rated as providing high clinical benefit, with
+uncertainties in clinical evidence, and to balance budgets and maintain healthcare             significant improvement in functional vision in both eyes one-year post-treatment.
+sustainability. By examining ATMPs launched in Germany, France, and the UK over the
+past eight years, this analysis focuses on Luxturna as a case study to understand how          In the UK, NICE has recommended Luxturna along with eight other ATMPs. Recognising
+clinical trial packages influence health technology assessment (HTA)                           the rarity and severity of the disease, NICE found that clinical trial data showed short-
+reimbursement/pricing outcomes.                                                                term vision improvements, with the plausible assumption that these benefits could
+                                                                                               extend over decades, despite the lack of long-term evidence. While economic modeling
+METHODS                                                                                        uncertainties remain, particularly around utility values and treatment duration, NICE
+                                                                                               concluded that Luxturna likely offers significant clinical benefits for patients.
+ATMPs granted market authorisation between 2015 and 2023 were identified from
+European Medicines Agency (EMA) and Medicines and Healthcare Products Regulatory               Pricing for Luxturna is relatively consistent across Germany ( 295K annually), France
+Agency (MHRA) databases. Data on ATMP HTAs, including presented clinical trial                 ( 290K), and the UK (£269K). In contrast, Upstaza received an `unquantifiable added
+evidence, and pricing and reimbursement decisions, were gathered from relevant HTA             benefit rating' in Germany, `SMR Important / ASMR III' in France, with an annual cost of
+bodies across Germany, France, and the UK.
+                                                                                                3M and 3.5M respectively, and is recommended in the UK at 2.6M annually. This
+Product data were then compiled in a spreadsheet, categorised by disease                       pricing discrepancy highlights the UK's emphasis on cost-effectiveness and variability
+characteristics (e.g. prevalence, age group, and on-label competitors), product attributes     in acceptance for single-arm, on-going trial studies.
+(e.g. EMA indication, line of therapy, administration route), trial details (e.g. trial type,
+comparator, and endpoints), as well as pricing and reimbursement outcomes (e.g. HTA                    Overview of HTA Outcomes for ATMPs
+rating, reimbursement levels and annual therapy costs).
+
+                Launch Overview of ATMPs (2015-2023)                                           Considerable AB          2
+
+                                                                                               Unquantifiable AB                 6
+
+                                     Orphan Drug                                               No AB                       3
+                                     Designation
+. Product Name  Launch Date                              Therapeutic Area                      ASMR II               1
+Hemgenix             2023                   No              Haematology
+
+Upstaza         2022                 Yes                 Neurology                             ASMR III                       4
+
+                                                                                               ASMR IV               1
+
+Roctavian       2022                 Yes                 Haematology                           ASMR V                   2
+
+Ebvallo         2022                 Yes                 Oncology
+
+Zolgensma       2022                 No                  Neurology                             Recommended                             9
+
+Carvykti        2022                 Yes                 Oncology
+Breyanzi                                                 Oncology
+Abecma          2022                            No       Oncology                                                 0     2     4  6  8                                            10
+Skysona                              (status withdrawn)  Neurology
+Libmeldy                                                 Neurology
+                2021                 Yes                                                       Products that have not been launched in the country, are part of an early access
+                                                                                               program, or are still undergoing HTA are excluded from the analysis.
+                           2021      Yes                                                       Abbreviations: AB: Additional Benefit
+                (product withdrawn)
+
+                2020                 Yes
+
+Tecartus        2020                 Yes                 Oncology
+
+Luxturna        2018                 Yes                 Ophthalmology                         CONCLUSION
+
+Yescarta        2018                 Yes                 Oncology                              The analysis highlights the significant variability in HTA outcomes and pricing for ATMPs
+                                                                                               across Germany, France, and the UK. These findings emphasise the importance of trial
+Alofisel        2018                 No                  Immunology                            design, including factors like randomisation, open-label, patient-relevant endpoints, in
+                                                                                               influencing payers' willingness to pay. Understanding these key drivers is crucial for
+Spherox         2017                 No                  Orthopaedic                           assessing the robustness of trial evidence required to achieve a certain level of added
+                                                                                               clinical benefit. This knowledge informs pricing strategies and highlights the additional
+Imlygic         2015                 No                  Oncology                              evidence needed to secure optimal HTA reimbursement and expedite patient access.
+
+Holoclar        2015                 No                  Ophthalmology                         REFERENCES
+
+RESULTS                                                                                        1. GBA. Luxturna HTA Report. 2022. https://www.g-ba.de/downloads/40-1465-8823/2022-
+                                                                                                  09-15_AM-RL-XII_Voretigen%20Neparvovec_D-803_TrG_EN.pdf
+Of the 17 ATMPs with regulatory approval across selected markets, 10 had Orphan Drug
+Designation and 7 were in the oncology disease area. Most of these therapies address           2. HAS Luxturna HTA Report. 2019. https://www.has-
+diseases with significant impacts on mortality and are associated with chronic, long-             sante.fr/upload/docs/application/pdf/2019-08/luxturna_summary_ct17535.pdf
+term progression.
+                                                                                               3. NICE. Luxturna HTA Report. 2019.
+In Germany, only Luxturna and Tecartus achieved a `considerable added benefit rating'.            https://www.nice.org.uk/guidance/hst11/documents/final-evaluation-determination-
+Luxturna, used to treat vision loss from inherited retinal dystrophy, is supported by a           document-2
+randomized phase 3 trial and an observational study assessing long-term safety and
+efficacy. Key findings include statistically significant and clinically meaningful             4. GlobalData. Drug Pricing (POLI) & HTA Database. 2024.
+improvements in functional vision (MLMT), light sensitivity (FST), and quality of life, with      https://poli.globaldata.com/PricingData/Search
+no mortality reported. The long-term follow-up confirms these benefits, categorizing its
+overall impact as considerable.
+
+Author contact details: Emily Ng
+email: eng@rednucleus.com
+www.rednucleus.com/macs
+

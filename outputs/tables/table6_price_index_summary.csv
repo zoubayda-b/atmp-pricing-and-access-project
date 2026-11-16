@@ -1,0 +1,4 @@
+country,n,median,q1,q3,min,max,below_us,at_or_above_us
+Germany,11,111.4,96.8,115.4,89.5,127,4,7
+France,7,108.7,98.2,120.7,82.6,126.2,2,5
+England,8,106.8,101.8,112.6,87.6,123.4,2,6
